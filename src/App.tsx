@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <Heading data-size='lg' level={1}>Velkommen til Designsystemet workshop.</Heading>
-      <Paragraph>Redigere kildekoden på denne siden iht. designet ditt</Paragraph>
+      <Paragraph>Redigere kildekoden i <code>App.tsx</code> for å endre utseendet på denne siden</Paragraph>
     </div>
   )
 }
