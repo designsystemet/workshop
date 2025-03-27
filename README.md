@@ -1,8 +1,14 @@
 # Designsystemet workshop
 
 
-Kjør `npm run dev` i terminal for å startet applikasjonen.
+## Kom i gang
 
-Gå til `src/App.tsx` for å ta i bruk React komponent fra Designsystemet.
+Kjør følgende kommandoer i terminalen i denne mappen
+1.  `npm install`
+1.  `npm run dev`
 
-Gå til `src/App.css` for å legge til CSS for ekstra styling.
+
+## Utvikling
+
+- Gå til `src/App.tsx` for å ta i bruk React komponenter fra Designsystemet.
+- Gå til `src/App.css` for å legge til CSS for ekstra styling.
