@@ -1,0 +1,8 @@
+@import url("@digdir/designsystemet-css/index.css");
+
+#root {
+	max-width: 1280px;
+	margin: 0 auto;
+	padding: var(--ds-size-4);
+	text-align: center;
+}
